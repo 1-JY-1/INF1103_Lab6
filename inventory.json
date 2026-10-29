@@ -23,6 +23,12 @@
             "name": "Desktop",
             "price": 2500.0,
             "stock": 400
+        },
+        {
+            "ID": 5,
+            "name": "Jacket",
+            "price": 1000.0,
+            "stock": 300
         }
     ]
 }
