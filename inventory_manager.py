@@ -1,5 +1,6 @@
 
-import inventory
+import mainprogram
+
 
 toQuit = False
 
@@ -7,7 +8,7 @@ print("=========================================================================
 print("INVENTORY MANAGEMENT SYSTEM")
 print("===========================================================================")
 
-start = inventory.mainprogram()
+start = mainprogram.mainprogram()
 
 while not toQuit:
     print("\n================================= Menu ====================================")

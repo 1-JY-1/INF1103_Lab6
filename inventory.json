@@ -29,6 +29,18 @@
             "name": "Jacket",
             "price": 1000.0,
             "stock": 300
+        },
+        {
+            "ID": 6,
+            "name": "tt",
+            "price": 123.0,
+            "stock": 133
+        },
+        {
+            "ID": 7,
+            "name": "Dice",
+            "price": 20.0,
+            "stock": 100
         }
     ]
 }
